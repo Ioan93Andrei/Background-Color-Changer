@@ -1,0 +1,19 @@
+body{
+  background-color: gray;
+  height: 95vh;
+}
+
+p{
+  color: white;
+  font-weight: bold;
+  text-shadow: 2px 2px 4px black;
+  font-size: large;
+}
+
+.container{
+  height: 100%;
+}
+
+.par p{
+  align-self: center;
+}
